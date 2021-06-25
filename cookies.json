@@ -1,0 +1,29 @@
+{
+    {
+      "name": "ref",
+      "value": "1@VZJoEomWqs8O55ukWH7IokRfieYn+rVu2AvugsVf6Ceqqo6s80zPD7YzSRgPENP8rkFWQxDHXd/0gQ==",
+      "domain": ".web.whatsapp.com",
+      "path": "/pp",
+      "expires": -1,
+      "size": 85,
+      "httpOnly": false,
+      "secure": true,
+      "session": true,
+      "priority": "Medium",
+      "sameParty": false
+    },
+    {
+      "name": "tok",
+      "value": "1@RfezrO1Xhaou53yK+l8uRjbKG+gMKIWx+5YEVLS9OZHNmzMy1MecY/mmk+cSInMUBTOWVv/5rBc0Ww==",
+      "domain": ".web.whatsapp.com",
+      "path": "/pp",
+      "expires": -1,
+      "size": 85,
+      "httpOnly": false,
+      "secure": true,
+      "session": true,
+      "priority": "Medium",
+      "sameParty": false
+    }
+  
+}
